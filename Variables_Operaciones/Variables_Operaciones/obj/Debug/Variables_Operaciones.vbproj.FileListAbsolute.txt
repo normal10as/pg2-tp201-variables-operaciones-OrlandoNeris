@@ -1,0 +1,20 @@
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.exe.config
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.exe
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.pdb
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.xml
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.Resources.resources
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.exe
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.xml
+C:\Users\USUARIO\Source\Repos\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.pdb
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.exe.config
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.exe
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.pdb
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.xml
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.vbprojResolveAssemblyReference.cache
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.Resources.resources
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.vbproj.GenerateResource.cache
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.vbproj.CoreCompileInputs.cache
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.exe
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.xml
+D:\Desktop\Codigos Programacion 2\pg2-tp201-variables-operaciones-OrlandoNeris\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.pdb
