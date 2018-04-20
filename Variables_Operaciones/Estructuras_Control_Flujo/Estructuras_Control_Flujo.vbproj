@@ -4,14 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DF643497-945D-43BE-8250-38509795F316}</ProjectGuid>
+    <ProjectGuid>{43474A56-D762-4484-8270-E05E18B6166A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Variables_Operaciones._1_16</StartupObject>
-    <RootNamespace>Variables_Operaciones</RootNamespace>
-    <AssemblyName>Variables_Operaciones</AssemblyName>
+    <StartupObject>Estructuras_Control_Flujo._2_4</StartupObject>
+    <RootNamespace>Estructuras_Control_Flujo</RootNamespace>
+    <AssemblyName>Estructuras_Control_Flujo</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Variables_Operaciones.xml</DocumentationFile>
+    <DocumentationFile>Estructuras_Control_Flujo.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Variables_Operaciones.xml</DocumentationFile>
+    <DocumentationFile>Estructuras_Control_Flujo.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -68,17 +68,10 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1_10.vb" />
-    <Compile Include="1_11.vb" />
-    <Compile Include="1_12.vb" />
-    <Compile Include="1_13.vb" />
-    <Compile Include="1_14.vb" />
-    <Compile Include="1_15.vb" />
-    <Compile Include="1_16.vb" />
-    <Compile Include="1_6.vb" />
-    <Compile Include="1_7.vb" />
-    <Compile Include="1_8.vb" />
-    <Compile Include="1_9.vb" />
+    <Compile Include="2_1.vb" />
+    <Compile Include="2_2.vb" />
+    <Compile Include="2_3.vb" />
+    <Compile Include="2_4.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
