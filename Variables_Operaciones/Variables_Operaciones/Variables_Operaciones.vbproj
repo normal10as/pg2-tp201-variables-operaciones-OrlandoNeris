@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{DF643497-945D-43BE-8250-38509795F316}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Variables_Operaciones._1_16</StartupObject>
+    <StartupObject>Variables_Operaciones._1_10</StartupObject>
     <RootNamespace>Variables_Operaciones</RootNamespace>
     <AssemblyName>Variables_Operaciones</AssemblyName>
     <FileAlignment>512</FileAlignment>
