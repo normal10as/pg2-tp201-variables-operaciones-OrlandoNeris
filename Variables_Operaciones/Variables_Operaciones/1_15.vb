@@ -4,8 +4,8 @@
     ' Con esos valores crea una variable de tipo Date usando el mes y año actual y mostrarla.
     Sub main()
 
-        Dim dia As Integer = 31
-        Dim hora As Integer = 15
+        Dim dia As Byte = 31
+        Dim hora As Byte = 15
 
 
         Dim fechahora As New Date(Now.Year, Now.Month, dia, hora, Now.Minute, Now.Second)
